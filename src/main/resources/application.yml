@@ -1,0 +1,16 @@
+spring:
+  application:
+    name:
+  redis:
+    host:
+    password:
+    port:
+  datasource:
+    password:
+    username:
+    driver-class-name: com.mysql.jdbc.Driver
+  activemq:
+    pool:
+      idle-timeout:
+
+
